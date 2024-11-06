@@ -2,21 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yudiwiratama.github.io-blog/</loc>
+    <loc>https://yudi33.github.io/</loc>
+    <lastmod>2024-11-07T04:16:42+07:00</lastmod>
+  </url><url>
+    <loc>https://yudi33.github.io/tools/thetools/</loc>
+    <lastmod>2024-11-07T04:16:42+07:00</lastmod>
+  </url><url>
+    <loc>https://yudi33.github.io/tools/</loc>
+    <lastmod>2024-11-07T04:16:42+07:00</lastmod>
+  </url><url>
+    <loc>https://yudi33.github.io/projects/</loc>
+    <lastmod>2024-11-07T04:14:17+07:00</lastmod>
+  </url><url>
+    <loc>https://yudi33.github.io/projects/testing/</loc>
+    <lastmod>2024-11-07T04:14:17+07:00</lastmod>
+  </url><url>
+    <loc>https://yudi33.github.io/posts/</loc>
     <lastmod>2024-11-07T03:41:22+07:00</lastmod>
   </url><url>
-    <loc>https://yudiwiratama.github.io-blog/posts/</loc>
+    <loc>https://yudi33.github.io/tags/</loc>
     <lastmod>2024-11-07T03:41:22+07:00</lastmod>
   </url><url>
-    <loc>https://yudiwiratama.github.io-blog/tags/</loc>
+    <loc>https://yudi33.github.io/posts/test/</loc>
     <lastmod>2024-11-07T03:41:22+07:00</lastmod>
   </url><url>
-    <loc>https://yudiwiratama.github.io-blog/posts/test/</loc>
+    <loc>https://yudi33.github.io/tags/untagged/</loc>
     <lastmod>2024-11-07T03:41:22+07:00</lastmod>
   </url><url>
-    <loc>https://yudiwiratama.github.io-blog/tags/untagged/</loc>
-    <lastmod>2024-11-07T03:41:22+07:00</lastmod>
-  </url><url>
-    <loc>https://yudiwiratama.github.io-blog/blog/</loc>
+    <loc>https://yudi33.github.io/blog/</loc>
   </url>
 </urlset>
