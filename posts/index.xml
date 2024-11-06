@@ -1,10 +1,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on blog.coolapso.sh</title>
+        <title>Posts on yudiwiratama.sh</title>
         <link>https://yudi33.github.io/posts/</link>
-        <description>Recent content in Posts on blog.coolapso.sh</description>
+        <description>Recent content in Posts on yudiwiratama.sh</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>pt-pt</language>
+        <language>en</language>
         <copyright>All Rights Reserved</copyright>
         <lastBuildDate>Thu, 07 Nov 2024 03:41:22 +0700</lastBuildDate>
         <atom:link href="https://yudi33.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
