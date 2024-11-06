@@ -15,8 +15,9 @@
             <pubDate>Thu, 07 Nov 2024 03:41:22 +0700</pubDate>
             
             <guid>https://yudiwiratama.github.io-blog/posts/test/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
+            <description>hello world!</description>
+            <content type="html"><![CDATA[<p>hello world!</p>
+]]></content>
         </item>
         
     </channel>
